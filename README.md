@@ -1,6 +1,8 @@
 # Hi there, I'm Pengxiang Li 👋
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+<div style="text-align: center;">
+  <img src="./profile-3d-contrib/profile-gitblock.svg" style="width: 50%; height: auto;">
+</div>
 
 ## About Me
 
