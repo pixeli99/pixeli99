@@ -7,7 +7,7 @@
       <!-- 在这里添加更多文字内容 -->
     </td>
     <td width="40%">
-      <img src="https://github.com/user-attachments/assets/f0bdad3c-af4c-4912-87e4-677d17303a53" width="400" alt="Profile Image">
+      <img src="https://github.com/user-attachments/assets/89676241-8356-43ed-beb3-ed3b067614f3" width="400" alt="Profile Image">
     </td>
   </tr>
 </table>
