@@ -2,7 +2,7 @@
   <tr>
     <td width="40%">
       <h2>Pengxiang Li</h2>
-      <p>📮 <a href="mailto:lipengxiang@mail.dlut.edu.cn">lipengxiang@mail.dlut.edu.cn</a></p>
+      <p>📮 <a href="mailto:2040gis@gmail.com">2040gis@gmail.com</a></p>
       <p>Thank you for visiting my profile!</p>
     </td>
 <!--     <td width="40%">
